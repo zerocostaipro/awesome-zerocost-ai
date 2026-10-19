@@ -16,24 +16,11 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - [Free AI Mini-Apps](https://zerocostai.pro/tools/) — Interactive browser utilities with zero latency.
 - [Founder Embed Badges](https://zerocostai.pro/badges/) — Retina SVG badges for open-source AI repos.
 
-## 💸 Mega Paid SaaS Free Alternatives (Escape Guides)
-- [Free AI Software Alternatives Index](https://zerocostai.pro/alternative-to/) — Comprehensive verified directory to ditch expensive AI software subscriptions.
-- [Free Alternatives to QuillBot](https://zerocostai.pro/alternative-to/quillbot/) — Paraphrase and rewrite text without the 125-word cap or paywalls.
-- [Free Alternatives to Midjourney](https://zerocostai.pro/alternative-to/midjourney/) — Hyper-realistic AI image generation without Discord or $10-$60/mo fees.
-- [Free Alternatives to ElevenLabs](https://zerocostai.pro/alternative-to/elevenlabs/) — Realistic speech synthesis and voice cloning with zero character limits.
-- [Free Alternatives to Jasper AI](https://zerocostai.pro/alternative-to/jasper-ai/) — Long-form SEO writing and marketing copy without upfront credit card trials.
-- [Free Alternatives to Runway](https://zerocostai.pro/alternative-to/runway-ai/) — High-definition text-to-video generators without watermarks or credit cards.
-- [Free Alternatives to ChatGPT Plus](https://zerocostai.pro/alternative-to/chatgpt-plus/) — Frontier intelligence models (Claude 3.5 Sonnet, Gemini 1.5 Pro) completely free.
-- [Free Alternatives to Cursor AI](https://zerocostai.pro/alternative-to/cursor-ai/) — Multi-file AI code editors and assistants without $20/month seats.
-- [Free Alternatives to Synthesia](https://zerocostai.pro/alternative-to/synthesia/) — Talking avatar presenters and corporate video makers without enterprise pricing.
-- [Free Alternatives to Descript](https://zerocostai.pro/alternative-to/descript/) — 4K transcript-based video and audio podcast editing with zero watermarks.
-- [Free Alternatives to Suno AI](https://zerocostai.pro/alternative-to/suno-ai/) — Generative song and instrumental music creators with commercial use permissions.
-
 ---
 
 ## 📚 Categories
 
-- [Productivity](#productivity) (145 tools)
+- [Productivity](#productivity) (190 tools)
 - [Video Generation](#video-generation) (47 tools)
 - [AI Agents](#ai-agents) (46 tools)
 - [Coding](#coding) (46 tools)
@@ -48,8 +35,8 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - [NoCode](#nocode) (23 tools)
 - [SEO](#seo) (22 tools)
 - [Image Editing](#image-editing) (20 tools)
-- [Business Intelligence](#business-intelligence) (20 tools)
 - [AI Detection](#ai-detection) (19 tools)
+- [Business Intelligence](#business-intelligence) (19 tools)
 - [Chatbots](#chatbots) (18 tools)
 - [Advertising](#advertising) (17 tools)
 - [Generative Video](#generative-video) (16 tools)
@@ -58,32 +45,33 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - [AI Visibility](#ai-visibility) (11 tools)
 - [Music](#music) (11 tools)
 - [Text-to-Video](#text-to-video) (11 tools)
-- [Video Editing](#video-editing) (11 tools)
 - [Transcription](#transcription) (10 tools)
+- [Video Editing](#video-editing) (10 tools)
 - [Graphic Design](#graphic-design) (8 tools)
 - [Audio](#audio) (8 tools)
 - [Recruitment](#recruitment) (8 tools)
 - [Video](#video) (8 tools)
 - [Short Form Video](#short-form-video) (7 tools)
 - [Presentation Maker](#presentation-maker) (7 tools)
-- [Free Chatbots](#free-chatbots) (6 tools)
 - [Podcasting](#podcasting) (5 tools)
 - [Website Builder](#website-builder) (5 tools)
 - [AI Image Generation](#ai-image-generation) (5 tools)
 - [AI Education & Learning](#ai-education-&-learning) (5 tools)
+- [Free Chatbots](#free-chatbots) (5 tools)
 - [AI Accounting](#ai-accounting) (5 tools)
 - [Translation](#translation) (5 tools)
 - [Audio & Music](#audio-&-music) (4 tools)
 - [Ecommerce](#ecommerce) (4 tools)
 - [Investing](#investing) (4 tools)
-- [Writing](#writing) (3 tools)
 - [AI Agents & Frameworks](#ai-agents-&-frameworks) (3 tools)
 - [Voice & Audio](#voice-&-audio) (3 tools)
 - [Prompt Engineering](#prompt-engineering) (3 tools)
 - [Video Creation](#video-creation) (3 tools)
+- [Writing](#writing) (2 tools)
 - [Sales](#sales) (2 tools)
 - [SEO & Detection](#seo-&-detection) (2 tools)
 - [AI Productivity & Automation](#ai-productivity-&-automation) (2 tools)
+- [Developer & Hardware](#developer-&-hardware) (1 tools)
 - [Data & Automation](#data-&-automation) (1 tools)
 - [Video & Subtitle Tools](#video-&-subtitle-tools) (1 tools)
 - [Marketing & SEO](#marketing-&-seo) (1 tools)
@@ -94,12 +82,14 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - [Image & Video](#image-&-video) (1 tools)
 - [AI App Builders](#ai-app-builders) (1 tools)
 - [AI Writing & Humanizers](#ai-writing-&-humanizers) (1 tools)
+- [Writing & Content Optimization](#writing-&-content-optimization) (1 tools)
 - [Creative & Visual](#creative-&-visual) (1 tools)
-- [Design](#design) (1 tools)
+- [Education & Teaching](#education-&-teaching) (1 tools)
 - [AI Translation & Language](#ai-translation-&-language) (1 tools)
+- [Design & Image Editing](#design-&-image-editing) (1 tools)
 - [Audio & Voice](#audio-&-voice) (1 tools)
+- [Entertainment & Video Search](#entertainment-&-video-search) (1 tools)
 - [AI Design & Presentations](#ai-design-&-presentations) (1 tools)
-- [Voice & Audio AI](#voice-&-audio-ai) (1 tools)
 - [AI Chatbots](#ai-chatbots) (1 tools)
 - [Local AI & Self-Hosted](#local-ai-&-self-hosted) (1 tools)
 - [Visual AI](#visual-ai) (1 tools)
@@ -107,23 +97,31 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - [Gaming & Worlds](#gaming-&-worlds) (1 tools)
 - [Browser Agents](#browser-agents) (1 tools)
 - [Legal](#legal) (1 tools)
+- [Academic & Research AI](#academic-&-research-ai) (1 tools)
 - [Branding & Design](#branding-&-design) (1 tools)
+- [Developer & Security AI](#developer-&-security-ai) (1 tools)
 - [AI Chatbots & Assistants](#ai-chatbots-&-assistants) (1 tools)
 - [Audio & Video](#audio-&-video) (1 tools)
 - [Directories](#directories) (1 tools)
-- [Conversational LLM & Education](#conversational-llm-&-education) (1 tools)
+- [E-Commerce & Product AI](#e-commerce-&-product-ai) (1 tools)
+- [Design & Photo Editing](#design-&-photo-editing) (1 tools)
+- [Developer & LLMs](#developer-&-llms) (1 tools)
 - [AI Photo Editing & Enhancement](#ai-photo-editing-&-enhancement) (1 tools)
 - [AI Resume & Career](#ai-resume-&-career) (1 tools)
 - [Career & Resume](#career-&-resume) (1 tools)
+- [Career & AI Resume Matching](#career-&-ai-resume-matching) (1 tools)
 - [Lead Generation](#lead-generation) (1 tools)
 - [Email Marketing](#email-marketing) (1 tools)
+- [OSINT & AI Search](#osint-&-ai-search) (1 tools)
 - [AI Companions & Roleplay](#ai-companions-&-roleplay) (1 tools)
 - [AI Audio, Music & Voice](#ai-audio,-music-&-voice) (1 tools)
 - [Writing & Education](#writing-&-education) (1 tools)
 - [Film Production](#film-production) (1 tools)
-- [Productivity & Finance](#productivity-&-finance) (1 tools)
 - [Productivity AI](#productivity-ai) (1 tools)
+- [Voice & Text-to-Speech](#voice-&-text-to-speech) (1 tools)
 - [Education & Learning](#education-&-learning) (1 tools)
+- [Writing & AI Humanizer](#writing-&-ai-humanizer) (1 tools)
+- [Audio & Speech-to-Text](#audio-&-speech-to-text) (1 tools)
 - [AI Coding & Developer Tools](#ai-coding-&-developer-tools) (1 tools)
 - [Health Tech](#health-tech) (1 tools)
 - [Audio & Speech](#audio-&-speech) (1 tools)
@@ -138,11 +136,15 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[AIClothSwap](https://zerocostai.pro/tool/aiclothswap/)** — AIClothSwap (aiclothswap.com) lets you swap clothes on photos using AI. Free virtual fitting room, realistic fabric draping & 2026 alternatives.
 - **[AI Photo Generator Studio](https://zerocostai.pro/tool/aiphotogenerator/)** — AI Photo Generator Studio (aiphotogenerator.studio) provides 8 AI models, FLUX 2, no signup & watermark-free images. 2026 review & features.
 - **[AiZolo](https://zerocostai.pro/tool/aizolo/)** — AiZolo: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[AnimKai AI](https://zerocostai.pro/tool/animkai/)** — AnimKai AI review: AnimKai AI converts rough drawings, pose references, and text prompts into anime illustrations and short animation frames. Free daily credits inc...
 - **[Apify](https://zerocostai.pro/tool/apify/)** — Apify: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[APOB AI](https://zerocostai.pro/tool/apob-ai/)** — APOB AI review: APOB AI creates consistent AI influencer characters, portrait photos, and talking videos from a single reference face. Every free account receive...
 - **[AskYourPDF](https://zerocostai.pro/tool/askyourpdf/)** — Is AskYourPDF free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
 - **[Atomic Mail](https://zerocostai.pro/tool/atomic-mail/)** — Atomic Mail: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[audien.to](https://zerocostai.pro/tool/audien-to/)** — audien.to (audien-to.com) roasts your X / Twitter profile with AI and analyzes growth metrics. Free instant analysis, features & alternatives.
 - **[Beautiful.ai](https://zerocostai.pro/tool/beautiful-ai/)** — Is Beautiful.ai free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
 - **[BlabbyAI](https://zerocostai.pro/tool/blabbyai/)** — BlabbyAI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[3D Body Visualizer AI](https://zerocostai.pro/tool/body-visualizer/)** — 3D Body Visualizer AI review: AI 3D Body Visualizer generates accurate 3D human body meshes from height, weight, chest, waist, and hip measurements. It runs 100% free in-brows...
 - **[Bolt.new](https://zerocostai.pro/tool/bolt-new/)** — Bolt.new: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Brain FM](https://zerocostai.pro/tool/brain-fm/)** — Brain FM: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[ChatPDF](https://zerocostai.pro/tool/chatpdf-free/)** — Is ChatPDF free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
@@ -154,17 +156,23 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Clockk](https://zerocostai.pro/tool/clockk/)** — Clockk: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Coach Call AI](https://zerocostai.pro/tool/coach-call-ai/)** — Coach Call AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Coda AI](https://zerocostai.pro/tool/coda-ai/)** — Coda AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Comik AI](https://zerocostai.pro/tool/comik/)** — Comik AI review: Comik AI transforms text scripts and character prompts into consistent multi-panel comic strips and webtoons. New users receive 15 free daily pan...
 - **[Connected Papers](https://zerocostai.pro/tool/connected-papers/)** — Is Connected Papers free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
 - **[Consensus](https://zerocostai.pro/tool/consensus-ai/)** — Is Consensus free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
 - **[Copy.ai](https://zerocostai.pro/tool/copy-ai/)** — Copy.ai generates marketing copy with AI. Free plan discontinued in 2026 — paid plans start at $29/mo. See current pricing, features & alternatives.
 - **[Crisp AI Support](https://zerocostai.pro/tool/crisp-ai/)** — All-in-one messaging platform for modern websites. Embed live chat boxes, automate FAQs, and route visitor inquiries on a perpetual free plan.
 - **[DALL-E 3](https://zerocostai.pro/tool/dalle-3/)** — DALL-E 3 by OpenAI generates images from text prompts. Free via ChatGPT, API from $0.04/image. See pricing, alternatives & what replaced it in 2026.
+- **[DecorViz](https://zerocostai.pro/tool/decorviz/)** — DecorViz (decorviz.com) roasts your X / Twitter profile with AI and analyzes growth metrics. Free instant analysis, features & alternatives.
 - **[Demand Letter](https://zerocostai.pro/tool/demand-letter/)** — Demand Letter: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Devin AI](https://zerocostai.pro/tool/devin/)** — Devin AI by Cognition is an autonomous AI software engineer. Free tier available. Pro $20/mo, Max $200/mo. See features, pricing & review.
+- **[Dezgo AI](https://zerocostai.pro/tool/dezgo/)** — Dezgo AI review: Dezgo AI runs free Stable Diffusion and Flux text-to-image, image-to-image, inpainting, and background removal directly in your browser. It offer...
 - **[Diagrimo](https://zerocostai.pro/tool/diagrimo/)** — Diagrimo: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Dreemy AI](https://zerocostai.pro/tool/dreemy-ai/)** — Dreemy AI review: Dreemy AI generates stylized digital art, character portraits, and concept illustrations from text prompts. Users get 20 free daily generation cr...
 - **[DuckDuckGo AI Chat](https://zerocostai.pro/tool/duckduckgo-ai/)** — DuckDuckGo AI Chat provides completely anonymous, zero-data-collection access to leading AI models including Claude 3 Haiku, GPT-4o mini, Llama 3.3, and Mixtral.
 - **[Dume AI](https://zerocostai.pro/tool/dume-ai/)** — Dume AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Eagle](https://zerocostai.pro/tool/eagle/)** — Eagle: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[EaseUS AI Vocal Remover](https://zerocostai.pro/tool/easeus-vocal-remover/)** — EaseUS AI Vocal Remover review: EaseUS Online AI Vocal Remover separates vocals, acapellas, drums, and instrumentals from MP3/WAV files in seconds. Free for audio files up to 20...
+- **[EasyComment AI](https://zerocostai.pro/tool/easycomment-ai/)** — EasyComment AI review: EasyComment AI generates contextual LinkedIn, X (Twitter), and Instagram replies plus free social giveaway comment pickers. Basic browser extensi...
 - **[Eclipse AI](https://zerocostai.pro/tool/eclipse-ai/)** — Eclipse AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Eden](https://zerocostai.pro/tool/eden/)** — Eden: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Elicit](https://zerocostai.pro/tool/elicit/)** — Is Elicit free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
@@ -187,6 +195,7 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Gamma App](https://zerocostai.pro/tool/gamma-presentation/)** — Is Gamma App free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
 - **[GanttPRO AI Gantt Chart Maker](https://zerocostai.pro/tool/ganttpro-ai-gantt-chart-maker/)** — GanttPRO AI Gantt Chart Maker: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Gatsbi](https://zerocostai.pro/tool/gatsbi/)** — Gatsbi: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[GigaBody AI](https://zerocostai.pro/tool/gigabody/)** — GigaBody AI review: GigaBody AI applies realistic muscle definition, body-fat reduction, and physique simulations to fitness photos. Free daily previews are availabl...
 - **[GitMind](https://zerocostai.pro/tool/gitmind/)** — GitMind: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Glasp](https://zerocostai.pro/tool/glasp/)** — Glasp: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Google Workspace](https://zerocostai.pro/tool/google-workspace/)** — Google Workspace: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
@@ -200,7 +209,9 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Hiver](https://zerocostai.pro/tool/hiver/)** — Hiver: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Humata AI](https://zerocostai.pro/tool/humata-ai/)** — Is Humata AI free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
 - **[HyNote](https://zerocostai.pro/tool/hynote/)** — HyNote: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[HyperTranslate AI](https://zerocostai.pro/tool/hypertranslate/)** — HyperTranslate AI review: HyperTranslate AI runs rapid multi-hop neural translations across 100+ languages for localization testing and creative text transformation. It is...
 - **[i10x](https://zerocostai.pro/tool/i10x/)** — i10x: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[iAsk AI](https://zerocostai.pro/tool/iask-ai/)** — iAsk AI review: iAsk.ai is a free AI search and answer engine delivering factual, source-cited answers for students and researchers. It offers unlimited free web...
 - **[InVideo AI](https://zerocostai.pro/tool/invideo-ai/)** — InVideo AI creates videos from text prompts with AI. Free plan available with limits. Paid from $20/mo. See full pricing, features & review.
 - **[IrisGo Free Review](https://zerocostai.pro/tool/irisgo/)** — Hands-on 2026 audit of IrisGo: free plan limits, credit card requirement, true costs, and 3 zero-cost alternatives.
 - **[Issue Solver AI](https://zerocostai.pro/tool/issue-solver/)** — Read our 2026 in-depth review of Issue Solver AI: pricing breakdown, free tier limits, verified ratings, and top zero-cost alternatives.
@@ -208,6 +219,7 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Kie AI](https://zerocostai.pro/tool/kie-ai/)** — Kie AI (kie.ai) gives free access to Sora, Veo 3 and top AI video generators. Full review with features, pricing, watermark removal, and safety analysis.
 - **[Kie AI](https://zerocostai.pro/tool/kie/)** — Kie AI (kie.ai) gives free access to Sora, Veo 3 and top AI video generators. Full review with features, pricing, watermark removal, and safety analysis.
 - **[Kimi](https://zerocostai.pro/tool/kimi/)** — Is Kimi AI free? Hands-on review of Moonshot AI's Kimi: 200k context window limits, English capabilities, file upload testing, and free alternatives.
+- **[Korpi AI](https://zerocostai.pro/tool/korpiai/)** — Korpi AI review: Korpi AI automates customer support ticket routing and company knowledge-base RAG chatbots. Its free plan includes 100 monthly AI ticket resoluti...
 - **[Krisp](https://zerocostai.pro/tool/krisp/)** — Krisp: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[LanguageTool](https://zerocostai.pro/tool/languagetool/)** — LanguageTool checks grammar in 30+ languages for free. Premium from $4.99/mo adds AI rewrites. See pricing, Grammarly comparison & features.
 - **[Letterly](https://zerocostai.pro/tool/letterly/)** — Letterly: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
@@ -218,11 +230,15 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Magai](https://zerocostai.pro/tool/magai/)** — Magai: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Magical AI](https://zerocostai.pro/tool/magical-ai/)** — Is Magical AI free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
 - **[MangaTranslate AI](https://zerocostai.pro/tool/mangatranslate/)** — MangaTranslate (mangatranslate.com) translates manga, webtoons, and manhwa in 20+ languages with OCR text inpainting. 2026 review & features.
+- **[Marquee](https://zerocostai.pro/tool/marquee/)** — Marquee (marquee.com) roasts your X / Twitter profile with AI and analyzes growth metrics. Free instant analysis, features & alternatives.
 - **[MeetGeek](https://zerocostai.pro/tool/meetgeek/)** — MeetGeek: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[MindVideo AI](https://zerocostai.pro/tool/mindvideo-ai/)** — MindVideo AI review: MindVideo AI transforms static portraits and text prompts into 5-second AI motion videos and viral visual effects. Free signup grants daily test ...
+- **[MiniMax Audio (Hailuo AI)](https://zerocostai.pro/tool/minimax-audio/)** — MiniMax Audio (Hailuo AI) review: MiniMax Audio (Hailuo AI) delivers ultra-realistic zero-shot voice cloning and emotional long-form text-to-speech across 30+ languages. Generous ...
 - **[Miro](https://zerocostai.pro/tool/miro/)** — Miro: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Monica](https://zerocostai.pro/tool/monica/)** — Monica: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Namelix](https://zerocostai.pro/tool/namelix/)** — Namelix: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Napkin AI](https://zerocostai.pro/tool/napkin-ai/)** — Is Napkin AI free? Read our 2026 hands-on review: verified free tier limits, pricing plans breakdown, ratings, and top zero-cost alternatives without credit card.
+- **[Nexstair AI](https://zerocostai.pro/tool/nexstair-ai/)** — Nexstair AI (nexstair-ai.com) roasts your X / Twitter profile with AI and analyzes growth metrics. Free instant analysis, features & alternatives.
 - **[Google NotebookLM](https://zerocostai.pro/tool/notebooklm/)** — Is Google NotebookLM free? Read our 2026 hands-on review: verified free tier limits, pricing plans breakdown, ratings, and top zero-cost alternatives without credit card.
 - **[Notion AI](https://zerocostai.pro/tool/notion-ai/)** — Notion AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Nouswise](https://zerocostai.pro/tool/nouswise/)** — Nouswise: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
@@ -232,20 +248,33 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Oreate AI](https://zerocostai.pro/tool/oreate-ai/)** — Oreate AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[PDF ai](https://zerocostai.pro/tool/pdf-ai/)** — PDF ai: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[PDF Flex](https://zerocostai.pro/tool/pdf-flex/)** — PDF Flex: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Perchance RPG Generator](https://zerocostai.pro/tool/perchance-rpg/)** — Perchance RPG Generator review: Perchance AI RPG Generator provides 100% free, unlimited text-adventure storytelling and character image generation in your browser. It requires ...
+- **[Perfect Assistance AI](https://zerocostai.pro/tool/perfect-assistance/)** — Perfect Assistance AI review: Perfect Assistance AI automates executive calendar scheduling, email triage, and document drafting. The free starter tier provides 25 automated w...
 - **[Perplexity Pages](https://zerocostai.pro/tool/perplexity-pages/)** — Is Perplexity Pages free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
 - **[Persona AI Free Review](https://zerocostai.pro/tool/persona-ai/)** — Hands-on 2026 audit of Persona AI: free plan limits, credit card requirement, true costs, and 3 zero-cost alternatives.
 - **[Pika Labs](https://zerocostai.pro/tool/pika-labs/)** — Pika Labs creates AI videos from text & images. Free plan with 80 credits/mo at 480p. Paid from $8/mo. See full pricing, features & review.
 - **[PilotMyX](https://zerocostai.pro/tool/pilotmyx/)** — PilotMyX (pilotmyx.com) roasts your X / Twitter profile with AI and analyzes growth metrics. Free instant analysis, features & alternatives.
 - **[Pitch.com](https://zerocostai.pro/tool/pitch-ai/)** — Is Pitch.com free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
+- **[PixelBin.io](https://zerocostai.pro/tool/pixelbin/)** — PixelBin.io review: PixelBin.io automates bulk AI image upscaling, background removal (Erase.bg), watermark deletion (WatermarkRemover.io), and real-time CDN transfo...
+- **[PixelLab MCP](https://zerocostai.pro/tool/pixellab-mcp/)** — PixelLab MCP review: PixelLab MCP is a Model Context Protocol server that connects Cursor, Claude Desktop, and coding agents to automated 2D pixel-art sprite, tileset...
+- **[PlayPhrase.me](https://zerocostai.pro/tool/playphrase-me/)** — PlayPhrase.me review: PlayPhrase.me searches millions of movie and TV show scenes by exact spoken dialogue phrase for video editors and language learners. Free to sear...
 - **[PrivateGPT](https://zerocostai.pro/tool/privategpt/)** — PrivateGPT lets you chat with documents using local AI models for free. 100% private, no cloud. Setup guide, features & alternatives.
 - **[Process AI](https://zerocostai.pro/tool/process-ai/)** — Process AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Quizard AI](https://zerocostai.pro/tool/quizard/)** — Quizard AI review: Quizard AI scans homework problems and lecture notes to generate step-by-step explanations and study quizzes. Free accounts get 5 daily AI scans ...
 - **[Qwen 2.5 Coder](https://zerocostai.pro/tool/qwen-2-5-coder/)** — Qwen 2.5 Coder: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Read Aloud Voice](https://zerocostai.pro/tool/readaloud/)** — Reads web pages, PDFs, and articles aloud with natural sounding speech synthesis. Available as an instant web app and open browser extension.
+- **[Reddtastic AI](https://zerocostai.pro/tool/reddtastic/)** — Is Reddtastic working? Check live Reddtastic status, verified free tier limits (10 daily subreddit scans), direct official launch link, and top 100% free Reddit viewer alternatives.
 - **[Reflect](https://zerocostai.pro/tool/reflect/)** — Reflect: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Refrasear AI](https://zerocostai.pro/tool/refrasear/)** — Refrasear AI review: Refrasear AI paraphrases Spanish, Portuguese, and English essays while keeping academic meaning intact. Free tier supports 1,000 words per pass w...
 - **[RehearseNow](https://zerocostai.pro/tool/rehearsenow/)** — RehearseNow: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Research Studio](https://zerocostai.pro/tool/research-studio/)** — Research Studio: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Resume Worded AI](https://zerocostai.pro/tool/resumeworded/)** — Resume Worded AI review: Resume Worded scores resumes and LinkedIn profiles against recruiter ATS algorithms with instant line-by-line feedback. The free tier includes un...
+- **[Revisely AI](https://zerocostai.pro/tool/revisely/)** — Revisely AI review: Revisely AI converts uploaded PDFs, textbook photos, and notes into exam flashcards, quizzes, and automated AI essay grades. Free starter account...
 - **[Rezi](https://zerocostai.pro/tool/rezi/)** — Rezi: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Riverside](https://zerocostai.pro/tool/riverside/)** — Riverside: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Robot Vinci AI](https://zerocostai.pro/tool/robot-vinci/)** — Robot Vinci AI review: Robot Vinci AI converts uploaded photos and rough sketches into classical oil paintings, Renaissance sketches, and vector line art. Free browser ...
+- **[Rou.video AI](https://zerocostai.pro/tool/rou-video/)** — Rou.video AI review: Rou.video AI generates short social media video loops, animated transitions, and stylized motion clips from static images. Includes free browser ...
+- **[RPRP AI](https://zerocostai.pro/tool/rprp-ai/)** — RPRP AI review: RPRP AI provides multi-model prompt chaining, structured character templates, and conversational workspace routing. Includes daily free token all...
 - **[Runway ML](https://zerocostai.pro/tool/runway-ml/)** — Runway ML creates AI videos with Gen-4.5. Free plan includes 125 credits. Paid plans from $15/mo. See full pricing, features & alternatives.
 - **[Sanebox](https://zerocostai.pro/tool/sanebox/)** — Sanebox: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Scavenger AI](https://zerocostai.pro/tool/scavenger-ai/)** — Read our 2026 in-depth review of Scavenger AI: pricing breakdown, free tier limits, verified ratings, and top zero-cost alternatives.
@@ -254,8 +283,11 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Scroller](https://zerocostai.pro/tool/scroller/)** — Read our 2026 in-depth review of Scroller: pricing breakdown, free tier limits, verified ratings, and top zero-cost alternatives.
 - **[Semantic Scholar](https://zerocostai.pro/tool/semanticscholar/)** — Is Semantic Scholar free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
 - **[Simple Phones](https://zerocostai.pro/tool/simple-phones/)** — Simple Phones: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[SMMRY (Smry) AI](https://zerocostai.pro/tool/smmry/)** — SMMRY (Smry) AI review: SMMRY (smry) condenses long web articles, PDFs, and essays into core bullet points in one click by ranking sentence salience. It is 100% free wit...
 - **[SmolLM2](https://zerocostai.pro/tool/smollm2/)** — SmolLM2: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[SnowMTL AI](https://zerocostai.pro/tool/snowmtl/)** — SnowMTL AI review: SnowMTL is an automated AI comic and manhwa translation platform using optical character recognition (OCR) to translate speech bubbles into Engli...
 - **[SoBrief](https://zerocostai.pro/tool/sobrief/)** — Get our 2026 verified review of SoBrief: 73,000+ free book summaries, audio narration limits, no-login reading, and comparisons vs Blinkist.
+- **[Sonauto AI](https://zerocostai.pro/tool/sonauto/)** — Sonauto AI review: Sonauto AI turns text prompts, lyrics, and rhythm references into full songs with realistic vocals. Unlike paid competitors, Sonauto offers free ...
 - **[Super](https://zerocostai.pro/tool/super/)** — Super: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Supernormal](https://zerocostai.pro/tool/supernormal/)** — Supernormal: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Superscribe](https://zerocostai.pro/tool/superscribe/)** — Superscribe: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
@@ -268,15 +300,26 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Tome](https://zerocostai.pro/tool/tome-presentation/)** — Is Tome free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
 - **[Trinka AI](https://zerocostai.pro/tool/trinka-ai/)** — Trinka AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Trupeer](https://zerocostai.pro/tool/trupeer/)** — Trupeer: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Tunee AI](https://zerocostai.pro/tool/tunee-ai/)** — Tunee AI review: Tunee AI composes royalty-free background music, lo-fi beats, and vocal tracks for YouTube and TikTok creators. Free tier includes daily track ge...
 - **[TurboScribe](https://zerocostai.pro/tool/turboscribe/)** — TurboScribe: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[SciSpace](https://zerocostai.pro/tool/typeset-io/)** — Is SciSpace free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
+- **[UI Discovery](https://zerocostai.pro/tool/ui-discovery/)** — UI Discovery (ui-discovery.com) roasts your X / Twitter profile with AI and analyzes growth metrics. Free instant analysis, features & alternatives.
+- **[UploadWords AI](https://zerocostai.pro/tool/uploadwords/)** — UploadWords AI review: UploadWords AI analyzes uploaded essays, manuscripts, and DOCX documents for grammar, pacing, and readability improvements. Free tier supports up...
 - **[UseMotion](https://zerocostai.pro/tool/usemotion/)** — UseMotion: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[UX Pilot AI](https://zerocostai.pro/tool/ux-pilot/)** — UX Pilot AI review: UX Pilot AI generates editable Figma wireframes, mobile/desktop UI screens, and predictive eye-tracking heatmaps from text prompts. Free trial in...
 - **[Velozity Free Review](https://zerocostai.pro/tool/velozity/)** — Hands-on 2026 audit of Velozity: free plan limits, credit card requirement, true costs, and 3 zero-cost alternatives.
+- **[Vidwud AI](https://zerocostai.pro/tool/vidwud/)** — Vidwud AI review: Vidwud AI offers browser-based AI talking avatars, photo/video face swapping, and text-to-video synthesis. The free tier includes 3 daily video m...
 - **[Viggle AI](https://zerocostai.pro/tool/viggle-ai/)** — Viggle AI animates characters in videos using AI. Free plan with 5 videos/day. Pro from $4.99/mo. See pricing, features & meme examples.
 - **[Visme AI Designer](https://zerocostai.pro/tool/visme/)** — All-in-one visual design platform for creating infographics, presentation slides, data visualizations, and social media banners with AI prompts.
 - **[VoiceAppear](https://zerocostai.pro/tool/voiceappear/)** — VoiceAppear: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[WayInVideo AI](https://zerocostai.pro/tool/wayinvideo/)** — WayInVideo AI review: WayInVideo AI clips long-form YouTube videos and webinars into vertical TikTok/Reels Shorts with animated captions and speaker tracking. Free sig...
 - **[Wispr Flow](https://zerocostai.pro/tool/wispr-flow/)** — Wispr Flow: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Wonderplan](https://zerocostai.pro/tool/wonderplan/)** — Wonderplan: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[xCrawl AI](https://zerocostai.pro/tool/xcrawl/)** — xCrawl AI review: High-performance AI web scraper converting complex JavaScript pages into clean Markdown and structured JSON for LLMs, RAG, and autonomous AI agents. Free starter tier audit.
+- **[YesChat AI](https://zerocostai.pro/tool/yeschat/)** — YesChat AI review: YesChat AI provides free browser access to specialized GPT-4o, Claude 3.5, and DeepSeek R1 assistants without a $20/month subscription. Users get...
+- **[YouArt AI](https://zerocostai.pro/tool/youart/)** — YouArt AI review: YouArt AI generates commercial graphic design layouts, product photography backgrounds, and stylized illustrations. Includes a free daily credit ...
+- **[ZenMux AI](https://zerocostai.pro/tool/zenmux/)** — ZenMux AI review: ZenMux AI multiplexes video tracks, translated subtitle streams, and AI dubbed audio for international content creators. Free tier supports 1080p...
+- **[Zorq AI](https://zerocostai.pro/tool/zorq-ai/)** — Zorq AI review: Zorq AI (zorqai) combines fast text, code, and image generation models inside a unified browser dashboard. Offers a daily free credit quota with ...
 
 ### Video Generation
 
@@ -384,7 +427,7 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[AnythingLLM](https://zerocostai.pro/tool/anything-llm/)** — Is AnythingLLM free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
 - **[AppWizzy](https://zerocostai.pro/tool/appwizzy/)** — AppWizzy: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Blackbox AI](https://zerocostai.pro/tool/blackbox-ai/)** — Blackbox AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Bolt](https://zerocostai.pro/tool/bolt/)** — Bolt: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Bolt](https://zerocostai.pro/tool/bolt/)** — Is Bolt.new free? Get the verified 2026 breakdown of Bolt free tokens, daily prompts allowance, no-card access limits, and top 100% free AI full-stack alternatives.
 - **[Browserbase](https://zerocostai.pro/tool/browserbase/)** — Is Browserbase free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card.
 - **[Cline](https://zerocostai.pro/tool/cline/)** — Cline: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[CometAPI](https://zerocostai.pro/tool/cometapi/)** — CometAPI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
@@ -544,7 +587,7 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[MindPal](https://zerocostai.pro/tool/mindpal/)** — MindPal: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Mistral AI](https://zerocostai.pro/tool/mistral-ai/)** — Mistral AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[OakGen](https://zerocostai.pro/tool/oakgen/)** — OakGen: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Outfit Finder](https://zerocostai.pro/tool/outfit-finder/)** — Outfit Finder: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Outfit Finder](https://zerocostai.pro/tool/outfit-finder/)** — Looking to describe this outfit with AI? Read our 2026 hands-on review of Outfit Finder: free photo-to-fashion search, garment attribute prompts, and zero-cost alternatives.
 - **[Perplexity](https://zerocostai.pro/tool/perplexity/)** — Perplexity: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Poe](https://zerocostai.pro/tool/poe/)** — Poe: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Sider AI](https://zerocostai.pro/tool/sider-ai/)** — Sider AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
@@ -599,7 +642,7 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[CopySpace](https://zerocostai.pro/tool/copyspace/)** — CopySpace: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Creaitor](https://zerocostai.pro/tool/creaitor/)** — Creaitor: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Cuppa](https://zerocostai.pro/tool/cuppa/)** — Cuppa: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[DescriptionWise](https://zerocostai.pro/tool/descriptionwise/)** — DescriptionWise: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[DescriptionWise](https://zerocostai.pro/tool/descriptionwise/)** — Is DescriptionWise free? Get the verified 2026 review of DescriptionWise AI product copywriter: free generation limits, Amazon/Shopify SEO features &amp; top alternatives.
 - **[Easy Peasy](https://zerocostai.pro/tool/easy-peasy/)** — Easy Peasy: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Elephas](https://zerocostai.pro/tool/elephas/)** — Elephas: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Ghost Writer](https://zerocostai.pro/tool/ghost-writer/)** — Ghost Writer: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
@@ -784,29 +827,6 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Sketch To](https://zerocostai.pro/tool/sketch-to/)** — Sketch To: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Visro AI](https://zerocostai.pro/tool/visro-ai/)** — Visro AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 
-### Business Intelligence
-
-- **[Articos](https://zerocostai.pro/tool/articos/)** — Articos: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[BypassGPT](https://zerocostai.pro/tool/bypassgpt/)** — BypassGPT: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[ClassCompanion](https://zerocostai.pro/tool/classcompanion/)** — ClassCompanion: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Columns AI](https://zerocostai.pro/tool/columns-ai/)** — Columns AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[DarLink AI](https://zerocostai.pro/tool/darlink-ai/)** — DarLink AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[DimeADozen](https://zerocostai.pro/tool/dimeadozen/)** — DimeADozen: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Govly](https://zerocostai.pro/tool/govly/)** — Govly: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Hebbia](https://zerocostai.pro/tool/hebbia/)** — Hebbia: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Liminary](https://zerocostai.pro/tool/liminary/)** — Liminary: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Opal44](https://zerocostai.pro/tool/opal44/)** — Opal44: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Parliant](https://zerocostai.pro/tool/parliant/)** — Parliant: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[PPSPY](https://zerocostai.pro/tool/ppspy/)** — PPSPY: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Reddtastic](https://zerocostai.pro/tool/reddtastic/)** — Reddtastic: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[RedQuill](https://zerocostai.pro/tool/redquill/)** — RedQuill: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[TaxGPT](https://zerocostai.pro/tool/taxgpt/)** — TaxGPT: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Two Minute Reports](https://zerocostai.pro/tool/two-minute-reports/)** — Two Minute Reports: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Upmetrics](https://zerocostai.pro/tool/upmetrics/)** — Upmetrics: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[VMock](https://zerocostai.pro/tool/vmock/)** — VMock: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[WindsorAI](https://zerocostai.pro/tool/windsorai/)** — WindsorAI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Yorph AI](https://zerocostai.pro/tool/yorph-ai/)** — Yorph AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-
 ### AI Detection
 
 - **[AI Aware](https://zerocostai.pro/tool/ai-aware/)** — AI Aware: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
@@ -828,6 +848,28 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Undetectable AI](https://zerocostai.pro/tool/undetectable-ai/)** — Undetectable AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Walter Writes](https://zerocostai.pro/tool/walter-writes/)** — Walter Writes: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Winston ai](https://zerocostai.pro/tool/winston-ai/)** — Winston ai: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+
+### Business Intelligence
+
+- **[Articos](https://zerocostai.pro/tool/articos/)** — Articos: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[BypassGPT](https://zerocostai.pro/tool/bypassgpt/)** — BypassGPT: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[ClassCompanion](https://zerocostai.pro/tool/classcompanion/)** — ClassCompanion: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Columns AI](https://zerocostai.pro/tool/columns-ai/)** — Columns AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[DarLink AI](https://zerocostai.pro/tool/darlink-ai/)** — DarLink AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[DimeADozen](https://zerocostai.pro/tool/dimeadozen/)** — DimeADozen: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Govly](https://zerocostai.pro/tool/govly/)** — Govly: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Hebbia](https://zerocostai.pro/tool/hebbia/)** — Hebbia: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Liminary](https://zerocostai.pro/tool/liminary/)** — Liminary: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Opal44](https://zerocostai.pro/tool/opal44/)** — Opal44: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Parliant](https://zerocostai.pro/tool/parliant/)** — Parliant: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[PPSPY](https://zerocostai.pro/tool/ppspy/)** — PPSPY: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[RedQuill](https://zerocostai.pro/tool/redquill/)** — RedQuill: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[TaxGPT](https://zerocostai.pro/tool/taxgpt/)** — TaxGPT: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Two Minute Reports](https://zerocostai.pro/tool/two-minute-reports/)** — Two Minute Reports: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Upmetrics](https://zerocostai.pro/tool/upmetrics/)** — Upmetrics: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[VMock](https://zerocostai.pro/tool/vmock/)** — VMock: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[WindsorAI](https://zerocostai.pro/tool/windsorai/)** — WindsorAI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Yorph AI](https://zerocostai.pro/tool/yorph-ai/)** — Yorph AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 
 ### Chatbots
 
@@ -963,20 +1005,6 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Viral Ai Video Maker](https://zerocostai.pro/tool/viral-ai-video-maker/)** — Viral Ai Video Maker: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Wondershare Virbo](https://zerocostai.pro/tool/wondershare-virbo/)** — Wondershare Virbo: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 
-### Video Editing
-
-- **[CapCut](https://zerocostai.pro/tool/capcut/)** — CapCut: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Clideo](https://zerocostai.pro/tool/clideo/)** — Clideo: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[ClipBuddy](https://zerocostai.pro/tool/clipbuddy/)** — ClipBuddy: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Eddie AI](https://zerocostai.pro/tool/eddie-ai/)** — Eddie AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Gling](https://zerocostai.pro/tool/gling/)** — Gling: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Magic Hour](https://zerocostai.pro/tool/magic-hour/)** — Magic Hour: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Submagic](https://zerocostai.pro/tool/submagic/)** — Submagic: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Supercut](https://zerocostai.pro/tool/supercut/)** — Supercut: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[WayinVideo](https://zerocostai.pro/tool/wayinvideo/)** — WayinVideo: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Wistia Remix](https://zerocostai.pro/tool/wistia-remix/)** — Wistia Remix: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Wondershare Filmora](https://zerocostai.pro/tool/wondershare-filmora/)** — Wondershare Filmora: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-
 ### Transcription
 
 - **[AI Video Summarizer](https://zerocostai.pro/tool/ai-video-summarizer/)** — AI Video Summarizer: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
@@ -989,6 +1017,19 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[tl;dv](https://zerocostai.pro/tool/tl_dv/)** — tl;dv: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Transcribe Video AI](https://zerocostai.pro/tool/transcribe-video-ai/)** — Transcribe Video AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Video Transcription AI](https://zerocostai.pro/tool/video-transcription-ai/)** — Video Transcription AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+
+### Video Editing
+
+- **[CapCut](https://zerocostai.pro/tool/capcut/)** — CapCut: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Clideo](https://zerocostai.pro/tool/clideo/)** — Clideo: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[ClipBuddy](https://zerocostai.pro/tool/clipbuddy/)** — ClipBuddy: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Eddie AI](https://zerocostai.pro/tool/eddie-ai/)** — Eddie AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Gling](https://zerocostai.pro/tool/gling/)** — Gling: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Magic Hour](https://zerocostai.pro/tool/magic-hour/)** — Magic Hour: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Submagic](https://zerocostai.pro/tool/submagic/)** — Submagic: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Supercut](https://zerocostai.pro/tool/supercut/)** — Supercut: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Wistia Remix](https://zerocostai.pro/tool/wistia-remix/)** — Wistia Remix: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Wondershare Filmora](https://zerocostai.pro/tool/wondershare-filmora/)** — Wondershare Filmora: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 
 ### Graphic Design
 
@@ -1030,7 +1071,7 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Genmo](https://zerocostai.pro/tool/genmo/)** — Genmo: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Haiper AI](https://zerocostai.pro/tool/haiper/)** — Haiper AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Hedra AI](https://zerocostai.pro/tool/hedra/)** — Hedra AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[MotionMuse](https://zerocostai.pro/tool/motionmuse/)** — MotionMuse: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[MotionMuse AI &amp; Motion Muse](https://zerocostai.pro/tool/motionmuse/)** — MotionMuse AI: 3D motion capture from video, FBX export limits, pricing breakdown, and zero-cost alternatives.
 - **[Perso AI](https://zerocostai.pro/tool/perso-ai/)** — Perso AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Viyou](https://zerocostai.pro/tool/viyou/)** — Viyou: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 
@@ -1053,15 +1094,6 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[PopAi](https://zerocostai.pro/tool/popai/)** — PopAi: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[Presenti](https://zerocostai.pro/tool/presenti/)** — Presenti: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[SlidesAI](https://zerocostai.pro/tool/slidesai/)** — SlidesAI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-
-### Free Chatbots
-
-- **[Character.ai](https://zerocostai.pro/tool/character-ai/)** — Character.ai: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[DreamGen AI](https://zerocostai.pro/tool/dreamgen/)** — DreamGen AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Janitor AI](https://zerocostai.pro/tool/janitor-ai/)** — Janitor AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[RPRP AI](https://zerocostai.pro/tool/rprp-ai/)** — RPRP AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Talefy](https://zerocostai.pro/tool/talefy/)** — Talefy: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[Yodayo](https://zerocostai.pro/tool/yodayo/)** — Yodayo: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 
 ### Podcasting
 
@@ -1094,6 +1126,14 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Khanmigo](https://zerocostai.pro/tool/khanmigo/)** — Is Khanmigo free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card traps.
 - **[Photomath](https://zerocostai.pro/tool/photomath/)** — Is Photomath free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card traps.
 - **[Quizlet AI](https://zerocostai.pro/tool/quizlet/)** — Is Quizlet AI free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card traps.
+
+### Free Chatbots
+
+- **[Character.ai](https://zerocostai.pro/tool/character-ai/)** — Character.ai: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[DreamGen AI](https://zerocostai.pro/tool/dreamgen/)** — DreamGen AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Janitor AI](https://zerocostai.pro/tool/janitor-ai/)** — Janitor AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Talefy](https://zerocostai.pro/tool/talefy/)** — Talefy: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+- **[Yodayo](https://zerocostai.pro/tool/yodayo/)** — Yodayo: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 
 ### AI Accounting
 
@@ -1132,12 +1172,6 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 - **[Prospero.ai](https://zerocostai.pro/tool/prospero_ai/)** — Prospero.ai: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 - **[TradeOS AI](https://zerocostai.pro/tool/tradeos-ai/)** — TradeOS AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 
-### Writing
-
-- **[AllintextAI](https://zerocostai.pro/tool/allintextai/)** — Read our 2026 in-depth review of AllintextAI: pricing breakdown, free tier limits, verified ratings, and top zero-cost alternatives.
-- **[Humanize AI](https://zerocostai.pro/tool/humanize-ai/)** — Humanize AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
-- **[TwainGPT](https://zerocostai.pro/tool/twaingpt/)** — Read our 2026 in-depth review of TwainGPT: pricing breakdown, free tier limits, verified ratings, and top zero-cost alternatives.
-
 ### AI Agents & Frameworks
 
 - **[AutoGPT](https://zerocostai.pro/tool/autogpt/)** — Is AutoGPT free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card traps.
@@ -1160,7 +1194,12 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 
 - **[Guidde AI](https://zerocostai.pro/tool/guidde/)** — Read our 2026 in-depth review of Guidde AI: pricing breakdown, free tier limits, verified ratings, and top zero-cost alternatives.
 - **[LivePortrait](https://zerocostai.pro/tool/liveportrait/)** — Is LivePortrait free? Read our 2026 hands-on review: verified free tier limits, pricing plans breakdown, ratings, and top zero-cost alternatives without credit card.
-- **[Vhat AI](https://zerocostai.pro/tool/vhat/)** — Read our 2026 in-depth review of Vhat AI: pricing breakdown, free tier limits, verified ratings, and top zero-cost alternatives.
+- **[Vhat AI](https://zerocostai.pro/tool/vhat/)** — Is Vhat AI free? Check verified Vhat AI video generation credits, official working login link, free tier limits &amp; top zero-cost video alternatives.
+
+### Writing
+
+- **[AllintextAI](https://zerocostai.pro/tool/allintextai/)** — Read our 2026 in-depth review of AllintextAI: pricing breakdown, free tier limits, verified ratings, and top zero-cost alternatives.
+- **[Humanize AI](https://zerocostai.pro/tool/humanize-ai/)** — Humanize AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 
 ### Sales
 
@@ -1176,6 +1215,10 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 
 - **[Otter.ai](https://zerocostai.pro/tool/otter-ai/)** — Is Otter.ai free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card traps.
 - **[Zapier AI / Central](https://zerocostai.pro/tool/zapier-ai/)** — Is Zapier AI / Central free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card traps.
+
+### Developer & Hardware
+
+- **[AirLLM Review 2026](https://zerocostai.pro/tool/airllm/)** — AirLLM review covering the open-source layered inference engine that runs 70B+ LLMs (Llama 3, Qwen) on a 4GB consumer GPU with zero cloud subscription fees.
 
 ### Data & Automation
 
@@ -1217,29 +1260,37 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 
 - **[Clever AI Humanizer](https://zerocostai.pro/tool/clever-ai-humanizer/)** — Read our 2026 hands-on review: Turnitin & GPTZero bypass benchmarks, free tier word limits, rewriting quality, and top zero-cost alternatives.
 
+### Writing & Content Optimization
+
+- **[Clever AI](https://zerocostai.pro/tool/clever-ai/)** — Clever AI Humanizer review covering natural language restructuring, academic tone balancing, Turnitin and GPTZero bypass testing, and free daily word limits.
+
 ### Creative & Visual
 
 - **[Comicory](https://zerocostai.pro/tool/comicory/)** — Comicory: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 
-### Design
+### Education & Teaching
 
-- **[Comik AI](https://zerocostai.pro/tool/comik/)** — Read our 2026 in-depth review of Comik AI: pricing breakdown, free tier limits, verified ratings, and top zero-cost alternatives.
+- **[Curipod](https://zerocostai.pro/tool/curipod/)** — Curipod (curipod.com) review covering the AI lesson plan generator, interactive student polls, drawing activities, and 100% free teacher tier without paywall traps.
 
 ### AI Translation & Language
 
 - **[DeepL Translator](https://zerocostai.pro/tool/deepl/)** — Is DeepL Translator free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card traps.
 
+### Design & Image Editing
+
+- **[DeWatermark](https://zerocostai.pro/tool/dewatermark/)** — DeWatermark (dewatermark.ai) review covering automatic AI watermark detection, background texture inpainting, batch removal, and 100% free high-res downloads.
+
 ### Audio & Voice
 
 - **[ElevenAgents Free Review](https://zerocostai.pro/tool/elevenagents/)** — Hands-on 2026 audit of ElevenAgents: free plan limits, credit card requirement, true costs, and 3 zero-cost alternatives.
 
+### Entertainment & Video Search
+
+- **[Filmpire AI](https://zerocostai.pro/tool/filmpire/)** — Filmpire AI review covering intelligent movie recommendations, natural language voice search, genre mood matching, and 100% free streaming discovery.
+
 ### AI Design & Presentations
 
 - **[Framer AI](https://zerocostai.pro/tool/framer/)** — Is Framer AI free? Read our 2026 hands-on review: verified free tier limits, pricing breakdown, ratings, and top zero-cost alternatives without credit card traps.
-
-### Voice & Audio AI
-
-- **[GenMusic](https://zerocostai.pro/tool/genmusic/)** — GenMusic (genmusic.online) creates original full-length songs, vocals, and background instrumentals from text prompts. Full 2026 review and free plan audit.
 
 ### AI Chatbots
 
@@ -1269,9 +1320,17 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 
 - **[Legitt AI](https://zerocostai.pro/tool/legitt-ai/)** — Legitt AI: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 
+### Academic & Research AI
+
+- **[Literfy](https://zerocostai.pro/tool/literfy/)** — Literfy (literfy.com) review covering automated literature reviews, paper matrix synthesis, citation tracking, and verified free access for students and researchers.
+
 ### Branding & Design
 
 - **[Logo Foundry](https://zerocostai.pro/tool/logofoundry/)** — Logo Foundry: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+
+### Developer & Security AI
+
+- **[MarkAny](https://zerocostai.pro/tool/markany/)** — MarkAny (markany.com) review covering enterprise AI document DRM, forensic watermarking, zero-trust security, and smart CCTV vision analytics. Free trial, features, and authority breakdown.
 
 ### AI Chatbots & Assistants
 
@@ -1285,9 +1344,17 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 
 - **[NLTHub](https://zerocostai.pro/tool/nlthub/)** — Read our 2026 in-depth review of NLTHub: pricing breakdown, free tier limits, verified ratings, and top zero-cost alternatives.
 
-### Conversational LLM & Education
+### E-Commerce & Product AI
 
-- **[ReLU.chat](https://zerocostai.pro/tool/relu-chat/)** — ReLU.chat (relu.chat) provides 100% free AI learning assistants for game theory, reinforcement learning, and linear algebra with step-by-step math. Zero signup.
+- **[Pebblely](https://zerocostai.pro/tool/pebblely/)** — Pebblely (pebblely.com) review covering AI e-commerce product photos, studio lighting rendering, automated background removal, and verified free creator allowance.
+
+### Design & Photo Editing
+
+- **[PicWish AI](https://zerocostai.pro/tool/picwish/)** — PicWish AI (picwish.com) review covering automated background removal, face unblur, ID photo generation, and verified free creator credits without watermarks.
+
+### Developer & LLMs
+
+- **[Reflection AI Review 2026](https://zerocostai.pro/tool/reflection-ai/)** — Reflection AI (reflection.ai) review covering the Beam 501B open-weights model, 1M context window, self-correction reasoning, and 100% free local HuggingFace deployment.
 
 ### AI Photo Editing & Enhancement
 
@@ -1301,6 +1368,10 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 
 - **[Resume Worded](https://zerocostai.pro/tool/resume-worded/)** — Read our 2026 in-depth review of Resume Worded: pricing breakdown, free tier limits, verified ratings, and top zero-cost alternatives.
 
+### Career & AI Resume Matching
+
+- **[Scouted Today](https://zerocostai.pro/tool/scouted-today/)** — Scouted Today review covering AI job scouting, automated resume keyword optimization, recruiter match scoring, and verified free job seeker credits.
+
 ### Lead Generation
 
 - **[ScrapeTheMap](https://zerocostai.pro/tool/scrapethemap/)** — ScrapeTheMap: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
@@ -1308,6 +1379,10 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 ### Email Marketing
 
 - **[SendX](https://zerocostai.pro/tool/sendx/)** — SendX: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+
+### OSINT & AI Search
+
+- **[Sherlock Search](https://zerocostai.pro/tool/sherlock-search/)** — Sherlock Search review covering AI open-source intelligence (OSINT), cross-platform entity resolution, automated dossier generation, and 100% free search utility.
 
 ### AI Companions & Roleplay
 
@@ -1325,17 +1400,25 @@ Maintained and empirically verified by the [ZeroCostAI Verification Lab](https:/
 
 - **[TheFluxTrain](https://zerocostai.pro/tool/thefluxtrain/)** — TheFluxTrain: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
 
-### Productivity & Finance
-
-- **[TheProfitPath](https://zerocostai.pro/tool/theprofitpath/)** — TheProfitPath (theprofitpath.app) provides an unlimited free trading journal with an AI coach that analyzes trade psychology. Full 2026 review and free plan audit.
-
 ### Productivity AI
 
 - **[TransMonkey](https://zerocostai.pro/tool/transmonkey/)** — TransMonkey (transmonkey.ai) provides freemium AI translation across documents, graphics, and video. Full 2026 review covering free limits, models, and accuracy.
 
+### Voice & Text-to-Speech
+
+- **[ttsMP3 AI](https://zerocostai.pro/tool/ttsmp3/)** — ttsMP3 review covering free text-to-speech audio generation, 3,000-character daily limits, multilingual neural voices, and instant MP3 file downloads without login.
+
 ### Education & Learning
 
 - **[TubeVocab](https://zerocostai.pro/tool/tubevocab/)** — TubeVocab: pricing breakdown, free tier limits, verified user ratings, and top zero-cost alternatives.
+
+### Writing & AI Humanizer
+
+- **[TwainGPT](https://zerocostai.pro/tool/twaingpt/)** — TwainGPT review covering natural sentence flow humanization, AI detector bypass, anti-robotic tone rewriting, and verified free word allowance.
+
+### Audio & Speech-to-Text
+
+- **[UniScribe AI](https://zerocostai.pro/tool/uniscribe/)** — UniScribe AI review covering neural speech-to-text, speaker diarization, automated meeting mindmaps, and 100% free transcription allowances.
 
 ### AI Coding & Developer Tools
 
