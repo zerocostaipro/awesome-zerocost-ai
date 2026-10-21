@@ -144,6 +144,18 @@
     "official_url": "https://adsturbo.com"
   },
   {
+    "id": "zerocostai-agent-barn",
+    "name": "Agent Barn",
+    "slug": "agent-barn",
+    "category": "Productivity",
+    "description": "Agent Barn (agentbarn.dev) review: Unified developer platform to build, deploy, monitor, and run multi-agent AI workflows from a single intuitive dashboard. Free developer tier.",
+    "pricing_tier": "100% Free / Verified Allowance",
+    "verified_no_card": true,
+    "rating": 4.8,
+    "review_url": "https://zerocostai.pro/tool/agent-barn/",
+    "official_url": "https://agentbarn.dev"
+  },
+  {
     "id": "zerocostai-agent-opus",
     "name": "Agent Opus",
     "slug": "agent-opus",
@@ -1198,6 +1210,18 @@
     "rating": 4.7,
     "review_url": "https://zerocostai.pro/tool/befreed/",
     "official_url": "https://befreed.com"
+  },
+  {
+    "id": "zerocostai-beket-ai",
+    "name": "Beket AI",
+    "slug": "beket-ai",
+    "category": "Productivity",
+    "description": "Beket AI (beket.ai) review: What is AI saying about your business? Track brand mentions, citations, and sentiment across ChatGPT, Gemini, and Claude. Free tier audit.",
+    "pricing_tier": "100% Free / Verified Allowance",
+    "verified_no_card": true,
+    "rating": 4.9,
+    "review_url": "https://zerocostai.pro/tool/beket-ai/",
+    "official_url": "https://beket.ai"
   },
   {
     "id": "zerocostai-betterpic",
@@ -4713,7 +4737,7 @@
     "verified_no_card": true,
     "rating": 4.9,
     "review_url": "https://zerocostai.pro/tool/hol-guard/",
-    "official_url": "https://hol.org"
+    "official_url": "https://hol.org/guard"
   },
   {
     "id": "zerocostai-holo",
@@ -6000,6 +6024,18 @@
     "official_url": "https://logofoundry.app"
   },
   {
+    "id": "zerocostai-longtermemory",
+    "name": "LongTerMemory",
+    "slug": "longtermemory",
+    "category": "Productivity",
+    "description": "LongTerMemory (https://longtermemory.com) review: LongTerMemory generates personalized AI study plans and spaced repetition recall quizzes from your textbooks, lecture slides, and notes. Verified free access audit.",
+    "pricing_tier": "100% Free / Verified Allowance",
+    "verified_no_card": true,
+    "rating": 4.8,
+    "review_url": "https://zerocostai.pro/tool/longtermemory/",
+    "official_url": "https://longtermemory.com"
+  },
+  {
     "id": "zerocostai-looka",
     "name": "Looka",
     "slug": "looka",
@@ -6394,6 +6430,18 @@
     "rating": 4.6,
     "review_url": "https://zerocostai.pro/tool/marketing-megaprompts/",
     "official_url": "https://marketingmegaprompts.com"
+  },
+  {
+    "id": "zerocostai-markitdown-ai",
+    "name": "MarkItDown AI",
+    "slug": "markitdown-ai",
+    "category": "Productivity",
+    "description": "MarkItDown AI (https://markitdownai.org) review: MarkItDown AI converts PDF, Word, PowerPoint, Excel, CSV, and JSON files into clean Markdown for LLMs and RAG pipelines at $0.00. Verified free access audit.",
+    "pricing_tier": "100% Free / Verified Allowance",
+    "verified_no_card": true,
+    "rating": 4.9,
+    "review_url": "https://zerocostai.pro/tool/markitdown-ai/",
+    "official_url": "https://markitdownai.org"
   },
   {
     "id": "zerocostai-marky",
@@ -7212,6 +7260,18 @@
     "official_url": "https://novelai.com"
   },
   {
+    "id": "zerocostai-null-fake",
+    "name": "NullFake",
+    "slug": "null-fake",
+    "category": "Productivity",
+    "description": "Null Fake (https://nullfake.com) review: Detect fake, incentivized, and AI-generated Amazon reviews across 14+ countries at $0.00. In-depth audit of Shift8 Web's trust score algorithm and Fakespot alternative.",
+    "pricing_tier": "100% Free / Verified Allowance",
+    "verified_no_card": true,
+    "rating": 4.9,
+    "review_url": "https://zerocostai.pro/tool/null-fake/",
+    "official_url": "https://nullfake.com"
+  },
+  {
     "id": "zerocostai-numerous-ai",
     "name": "Numerous AI",
     "slug": "numerous-ai",
@@ -7378,6 +7438,18 @@
     "rating": 4.5,
     "review_url": "https://zerocostai.pro/tool/opencode/",
     "official_url": "https://opencode.com"
+  },
+  {
+    "id": "zerocostai-opensidot",
+    "name": "OpenSiDot",
+    "slug": "opensidot",
+    "category": "Productivity",
+    "description": "OpenSiDot (opensidot.com) review: Real-time price comparison and context window benchmark for LLMs, open-source models, and AI inference APIs. 100% Free / No Login.",
+    "pricing_tier": "100% Free / Verified Allowance",
+    "verified_no_card": true,
+    "rating": 4.9,
+    "review_url": "https://zerocostai.pro/tool/opensidot/",
+    "official_url": "https://opensidot.com"
   },
   {
     "id": "zerocostai-opus-clip",
@@ -8961,7 +9033,7 @@
     "verified_no_card": true,
     "rating": 4.5,
     "review_url": "https://zerocostai.pro/tool/robylon-ai/",
-    "official_url": "https://robylon.com"
+    "official_url": "https://www.robylon.ai"
   },
   {
     "id": "zerocostai-rou-video",
@@ -9084,6 +9156,18 @@
     "official_url": "https://saveto.com"
   },
   {
+    "id": "zerocostai-savexr",
+    "name": "SaveXR",
+    "slug": "savexr",
+    "category": "Productivity",
+    "description": "SaveXR (https://savexr.com) review: Download high-definition videos from TikTok, Instagram, Facebook, and Snapchat with zero watermarks at $0.00. Tested no-login speed and privacy audit.",
+    "pricing_tier": "100% Free / Verified Allowance",
+    "verified_no_card": true,
+    "rating": 4.9,
+    "review_url": "https://zerocostai.pro/tool/savexr/",
+    "official_url": "https://savexr.com"
+  },
+  {
     "id": "zerocostai-scavenger-ai",
     "name": "Scavenger AI",
     "slug": "scavenger-ai",
@@ -9094,6 +9178,18 @@
     "rating": 4.7,
     "review_url": "https://zerocostai.pro/tool/scavenger-ai/",
     "official_url": "https://zerocostai.pro/tool/scavenger-ai/"
+  },
+  {
+    "id": "zerocostai-sceneflare",
+    "name": "SceneFlare",
+    "slug": "sceneflare",
+    "category": "Productivity",
+    "description": "SceneFlare (sceneflare.com) review: Web-based AI visual studio for generating cinematic images, marketing banners, and visual storyboards from text prompts. Free starter tier.",
+    "pricing_tier": "100% Free / Verified Allowance",
+    "verified_no_card": true,
+    "rating": 4.8,
+    "review_url": "https://zerocostai.pro/tool/sceneflare/",
+    "official_url": "https://sceneflare.com"
   },
   {
     "id": "zerocostai-schemawriter_ai",
@@ -9190,6 +9286,18 @@
     "rating": 4.8,
     "review_url": "https://zerocostai.pro/tool/seaart/",
     "official_url": "https://seaart.ai"
+  },
+  {
+    "id": "zerocostai-seclai",
+    "name": "Seclai",
+    "slug": "seclai",
+    "category": "Productivity",
+    "description": "Seclai (https://seclai.com) review: Seclai provides production infrastructure for LLM applications with model portability, output schema validation, MCP servers, and latency observability. Verified free access audit.",
+    "pricing_tier": "100% Free / Verified Allowance",
+    "verified_no_card": true,
+    "rating": 4.9,
+    "review_url": "https://zerocostai.pro/tool/seclai/",
+    "official_url": "https://seclai.com"
   },
   {
     "id": "zerocostai-secta-labs",
@@ -9334,6 +9442,18 @@
     "rating": 4.8,
     "review_url": "https://zerocostai.pro/tool/seomatic/",
     "official_url": "https://seomatic.com"
+  },
+  {
+    "id": "zerocostai-seonix",
+    "name": "Seonix",
+    "slug": "seonix",
+    "category": "Productivity",
+    "description": "Seonix (seonix.ai) review: Automated Generative Engine Optimization (GEO) helping web properties get cited in ChatGPT, Gemini, Perplexity, and Google AI Overviews.",
+    "pricing_tier": "100% Free / Verified Allowance",
+    "verified_no_card": true,
+    "rating": 4.8,
+    "review_url": "https://zerocostai.pro/tool/seonix/",
+    "official_url": "https://seonix.ai"
   },
   {
     "id": "zerocostai-seopress",
@@ -9538,6 +9658,18 @@
     "rating": 4.9,
     "review_url": "https://zerocostai.pro/tool/sketch-to/",
     "official_url": "https://sketchto.com"
+  },
+  {
+    "id": "zerocostai-skipcut",
+    "name": "SkipCut",
+    "slug": "skipcut",
+    "category": "Productivity",
+    "description": "SkipCut (https://skipcut.com) review: Stream ad-free YouTube with integrated SponsorBlock, background playback, and DJ crossfading at $0.00. Verified web player performance and safety audit.",
+    "pricing_tier": "100% Free / Verified Allowance",
+    "verified_no_card": true,
+    "rating": 4.9,
+    "review_url": "https://zerocostai.pro/tool/skipcut/",
+    "official_url": "https://skipcut.com"
   },
   {
     "id": "zerocostai-skybox-lab",
@@ -10455,8 +10587,8 @@
     "id": "zerocostai-transmonkey",
     "name": "TransMonkey",
     "slug": "transmonkey",
-    "category": "Productivity AI",
-    "description": "TransMonkey (transmonkey.ai) provides freemium AI translation across documents, graphics, and video. Full 2026 review covering free limits, models, and accuracy.",
+    "category": "Productivity",
+    "description": "TransMonkey (transmonkey.ai) review: All-in-one AI translation platform translating complex PDFs, technical images, comic manga, and video files with original layout preservation. Free tier audit.",
     "pricing_tier": "100% Free / Verified Allowance",
     "verified_no_card": true,
     "rating": 4.9,
@@ -11340,6 +11472,18 @@
     "official_url": "https://voluum.com"
   },
   {
+    "id": "zerocostai-voravideo",
+    "name": "VORAvideo",
+    "slug": "voravideo",
+    "category": "Productivity",
+    "description": "VORAvideo (voravideo.com) review: Professional AI video generator transforming scripts and text prompts into engaging short-form social videos in 3 minutes. Free tier audit.",
+    "pricing_tier": "100% Free / Verified Allowance",
+    "verified_no_card": true,
+    "rating": 4.8,
+    "review_url": "https://zerocostai.pro/tool/voravideo/",
+    "official_url": "https://voravideo.com"
+  },
+  {
     "id": "zerocostai-voxbrief",
     "name": "VoxBrief",
     "slug": "voxbrief",
@@ -11494,6 +11638,18 @@
     "rating": 4.6,
     "review_url": "https://zerocostai.pro/tool/wellows/",
     "official_url": "https://wellows.com"
+  },
+  {
+    "id": "zerocostai-what-should-my-bot-do",
+    "name": "What Should My Bot Do",
+    "slug": "what-should-my-bot-do",
+    "category": "Productivity",
+    "description": "What Should My Bot Do (whatshouldmybotdo.com) review: Free interactive AI agent workflow planner helping businesses and creators architect autonomous bot use cases without code.",
+    "pricing_tier": "100% Free / Verified Allowance",
+    "verified_no_card": true,
+    "rating": 4.8,
+    "review_url": "https://zerocostai.pro/tool/what-should-my-bot-do/",
+    "official_url": "https://whatshouldmybotdo.com"
   },
   {
     "id": "zerocostai-whatsapp-ai-sales-copilot",
@@ -11701,10 +11857,10 @@
   },
   {
     "id": "zerocostai-xcrawl",
-    "name": "xCrawl AI",
+    "name": "XCrawl",
     "slug": "xcrawl",
     "category": "Productivity",
-    "description": "xCrawl AI review: High-performance AI web scraper converting complex JavaScript pages into clean Markdown and structured JSON for LLMs, RAG, and autonomous AI agents. Free starter tier audit.",
+    "description": "XCrawl review: Turn search results and website content into LLM-friendly formats including Markdown, HTML, screenshots, and structured JSON. Official API documentation overview.",
     "pricing_tier": "100% Free / Verified Allowance",
     "verified_no_card": true,
     "rating": 4.8,
