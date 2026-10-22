@@ -5,7 +5,9 @@
 Maintained and empirically verified by the [ZeroCostAI Verification Lab](https://zerocostai.pro).
 
 ## 📊 Verified Industry Data
-- 🔍 **Audited Tools:** 937 AI platforms evaluated live.
+- 🔍 **Audited Tools:** 1,002 AI platforms evaluated live.
+- ☁️ **Official AWS Open-Data Mirror (DA 96):** [The 2026 Open-Access Benchmark of 1,002 Verified Zero-Cost AI Tools](https://zerocostai-open-research-2026.s3.amazonaws.com/index.html) (AWS S3 Static Research Mirror).
+- 📦 **Raw Dataset Download (DA 96):** [1,002 Verified Tools Open JSON Dataset](https://zerocostai-open-research-2026.s3.amazonaws.com/zerocostai-verified-1002-tools.json) hosted natively on Amazon Web Services.
 - ⚠️ **Paywall Warning:** According to our [2026 State of Free AI Software Benchmark](https://zerocostai.pro/stats/free-ai-report-2026/), 68.2% of commercial AI tools demand upfront credit cards or lock exports.
 - ⚡ **Zero-Cost Verified:** Every tool listed below provides genuine free utility without payment walls.
 
